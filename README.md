@@ -12,4 +12,4 @@ Utilizamos la correlación de Pearson para medir la relación entre variables nu
 
 El gráfico obtenido en el eje X, los bins de 'Account Balance' y en el eje Y, los valores de Weight of Evidence (WoE) para cada bin. El WoE indica si un grupo específico de la variable tiene una mayor o menor propensión al default en comparación con el grupo de referencia.
 
-# Para mas informacion ver el archivo Credit_Analyst.ipynb
+... Más informacion, Análisis, ver el archivo Credit_Analyst.ipynb
